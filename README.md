@@ -1,4 +1,4 @@
-# Persistence Length of Conjugated Polymers using the Hindered Rotation Model
+# Persistence Length of Semiflexible Conjugated Polymers using the Improved Hindered Rotation Model
 
 ## Introduction
 
