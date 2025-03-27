@@ -11,6 +11,8 @@ The reference paper [Predicting Chain Dimensions of Semiflexible Polymers from D
   - Replace recursion with cumsum.
   - Replace for loop with vectorization.
   - Calculation with 20 repeat units and 50000 samples can be done within 30 seconds.
+* New Features
+  - Experimental codes for (A-D1)x-(A-D2)1-x terpolymers (now only work with similar terminal units, e.g., in the demo, D1 = dithenylethene, D2 = ethanediyldithiophene, both are thiophene terminal units)
 
 ## Requirements
 
